@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "profession": "Software Engineer",
+    "image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "review": "Absolutely loved the product! The quality is top-notch and delivery was super fast.",
+    "rating": 3,
+    "date": "2025-10-25"
+  },
+  {
+    "id": 2,
+    "name": "Michael Lee",
+    "profession": "Digital Marketer",
+    "image": "https://randomuser.me/api/portraits/men/44.jpg",
+    "review": "A wonderful experience shopping here. Customer support was helpful and responsive!",
+    "rating": 4,
+    "date": "2025-10-20"
+  },
+  {
+    "id": 3,
+    "name": "Emily Davis",
+    "profession": "UX Designer",
+    "image": "https://randomuser.me/api/portraits/women/32.jpg",
+    "review": "Very stylish and comfortable! I’ve already recommended it to my friends.",
+    "rating": 5,
+    "date": "2025-10-15"
+  }
+]
